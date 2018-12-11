@@ -1,0 +1,171 @@
+<2018-03-23 11:57:04:780> <INFO> <InitEnvironment.java:218>: <成功加载系统数据.>
+<2018-03-23 11:57:05:106> <INFO> <Login.java:47>: <正在登录...>
+<2018-03-23 11:57:06:515> <INFO> <Login.java:169>: <登录成功，系统正在运行中...>
+<2018-03-23 11:57:23:116> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=8ms>
+<2018-03-23 11:57:23:116> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=8ms>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=11ms>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:116> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=8ms>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=9ms>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=9ms>
+<2018-03-23 11:57:23:118> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=9ms>
+<2018-03-23 11:57:23:118> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=9ms>
+<2018-03-23 11:57:23:120> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=13ms>
+<2018-03-23 11:57:23:117> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=9ms>
+<2018-03-23 11:57:23:116> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:121> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:121> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:118> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:23:555> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:602> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:635> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:686> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:721> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:758> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:790> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:828> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:877> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:23:908> <INFO> <RequestHandler.java:304>: <回收系统资源>
+<2018-03-23 11:57:25:333> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:334> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:334> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:335> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:335> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:336> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:348> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=15ms>
+<2018-03-23 11:57:25:348> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:359> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:359> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:360> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:361> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:361> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:361> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:365> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=4ms>
+<2018-03-23 11:57:25:366> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:375> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:375> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:375> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:375> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:499> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:499> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:500> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:500> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:501> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:499> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:500> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:500> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:506> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:507> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:511> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:511> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:512> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:512> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:512> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:515> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:515> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=4ms>
+<2018-03-23 11:57:25:516> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:517> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:518> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:688> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:688> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:689> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:688> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:690> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=3ms>
+<2018-03-23 11:57:25:689> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:692> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:691> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:693> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=5ms>
+<2018-03-23 11:57:25:692> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:696> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:695> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:696> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:701> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:696> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:702> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:703> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=4ms>
+<2018-03-23 11:57:25:703> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 11:57:25:707> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=2ms>
+<2018-03-23 11:57:25:707> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:062> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:062> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:063> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:063> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:093> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:093> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:097> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:097> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:100> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:100> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:103> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:104> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:106> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:106> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:110> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:110> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:139> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=29ms>
+<2018-03-23 14:24:38:139> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:150> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:38:150> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:38:424> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:630> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:678> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:758> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:760> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:847> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:38:937> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:39:086> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:39:090> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:39:104> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:24:41:124> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:124> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:137> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:137> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:138> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:138> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:139> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.15:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:139> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:141> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.43:7788连接成功. 时间=4ms>
+<2018-03-23 14:24:41:141> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:144> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.69:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:41:144> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:149> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.45:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:149> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:153> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.55:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:41:153> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:157> <INFO> <NetWorkUtil.java:37>: <测试:/128.110.9.57:7788连接成功. 时间=3ms>
+<2018-03-23 14:24:41:157> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:41:159> <INFO> <NetWorkUtil.java:37>: <测试:/128.113.2.8:7788连接成功. 时间=2ms>
+<2018-03-23 14:24:41:160> <INFO> <NetWorkUtil.java:45>: <释放连接>
+<2018-03-23 14:24:44:313> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.45:1111/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:313> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.55:1111/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:313> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.43:1111/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:314> <INFO> <NetWorkUtil.java:107>: <测试:http://128.113.2.8:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:315> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.45:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:315> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.69:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:319> <INFO> <NetWorkUtil.java:107>: <测试:http://128.113.2.15:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:319> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.57:8888/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:325> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.55:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:24:44:324> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.43:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:22:236> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:25:33:556> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:25:41:276> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:25:42:468> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.43:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:477> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.45:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:479> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.55:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:479> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.43:1111/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:479> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.45:1111/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:480> <INFO> <NetWorkUtil.java:107>: <测试:http://128.113.2.8:6666/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:42:488> <INFO> <NetWorkUtil.java:107>: <测试:http://128.110.9.57:8888/web连接失败.原因: Connection refused: connect>
+<2018-03-23 14:25:47:669> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:25:58:542> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:25:59:490> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:26:04:656> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:26:10:501> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:26:18:890> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 14:26:20:079> <INFO> <RequestHandler.java:192>: <断开与Agent的连接>
+<2018-03-23 15:36:33:365> <INFO> <MainForm.java:273>: <已退出系统.>
